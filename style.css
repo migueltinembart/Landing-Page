@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: 'robotoregular'
+}
+
+.hero {
+    background-color: #1F2937;
+    margin: 0px;
+    color: whitesmoke;
+    justify-content: space-around;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.hero ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    gap: 20px;
+}
+
+.title {
+    font-family: 'robotomedium';
+    font-size: 28px;
+}
