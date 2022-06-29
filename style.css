@@ -7,10 +7,34 @@ body {
     background-color: #1F2937;
     margin: 0px;
     color: whitesmoke;
-    justify-content: space-around;
     padding: 20px;
+    align-items: center;
+}
+
+.hero .upper {
     display: flex;
     align-items: center;
+    justify-content:space-around;
+}
+
+.hero .headline {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.hl_text {
+    flex: 1 1 100%;
+}
+
+.hl_text h1 {
+    font-family: 'robotobold';
+}
+
+.hl_img {
+    flex: 1 1 100%;
+    width: 100px;
+    background-color: grey;
 }
 
 .hero ul {
