@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'robotoblack';
-    src: url('http://localhost:3000/font/roboto/roboto-black-webfont.woff2') format('woff2'),
-         url('http://localhost:3000/font/roboto/roboto-black-webfont.woff') format('woff');
+    src: url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-black-webfont.woff2') format('woff2'),
+         url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-black-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'robotoblack_italic';
-    src: url('http://localhost:3000/font/roboto/roboto-blackitalic-webfont.woff2') format('woff2'),
-         url('http://localhost:3000/font/roboto/roboto-blackitalic-webfont.woff') format('woff');
+    src: url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-blackitalic-webfont.woff2') format('woff2'),
+         url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-blackitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'robotobold';
-    src: url('http://localhost:3000/font/roboto/roboto-bold-webfont.woff2') format('woff2'),
-         url('http://localhost:3000/font/roboto/roboto-bold-webfont.woff') format('woff');
+    src: url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-bold-webfont.woff2') format('woff2'),
+         url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -40,8 +40,8 @@
 
 @font-face {
     font-family: 'robotobold_italic';
-    src: url('http://localhost:3000/font/roboto/roboto-bolditalic-webfont.woff2') format('woff2'),
-         url('http://localhost:3000/font/roboto/roboto-bolditalic-webfont.woff') format('woff');
+    src: url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-bolditalic-webfont.woff2') format('woff2'),
+         url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-bolditalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -52,8 +52,8 @@
 
 @font-face {
     font-family: 'robotoitalic';
-    src: url('http://localhost:3000/font/roboto/roboto-italic-webfont.woff2') format('woff2'),
-         url('http://localhost:3000/font/roboto/roboto-italic-webfont.woff') format('woff');
+    src: url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-italic-webfont.woff2') format('woff2'),
+         url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -64,8 +64,8 @@
 
 @font-face {
     font-family: 'robotolight';
-    src: url('http://localhost:3000/font/roboto//font/roboto/roboto-light-webfont.woff2') format('woff2'),
-         url('http://localhost:3000/font/roboto//font/roboto/roboto-light-webfont.woff') format('woff');
+    src: url('https://tinembart-sudo.github.io/Landing-Page/font/roboto//font/roboto/roboto-light-webfont.woff2') format('woff2'),
+         url('https://tinembart-sudo.github.io/Landing-Page/font/roboto//font/roboto/roboto-light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -76,8 +76,8 @@
 
 @font-face {
     font-family: 'robotolight_italic';
-    src: url('http://localhost:3000/font/roboto/roboto-lightitalic-webfont.woff2') format('woff2'),
-         url('http://localhost:3000/font/roboto/roboto-lightitalic-webfont.woff') format('woff');
+    src: url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-lightitalic-webfont.woff2') format('woff2'),
+         url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-lightitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -88,8 +88,8 @@
 
 @font-face {
     font-family: 'robotomedium';
-    src: url('http://localhost:3000/font/roboto/roboto-medium-webfont.woff2') format('woff2'),
-         url('http://localhost:3000/font/roboto/roboto-medium-webfont.woff') format('woff');
+    src: url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-medium-webfont.woff2') format('woff2'),
+         url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -100,8 +100,8 @@
 
 @font-face {
     font-family: 'robotomedium_italic';
-    src: url('http://localhost:3000/font/roboto/roboto-mediumitalic-webfont.woff2') format('woff2'),
-         url('http://localhost:3000/font/roboto/roboto-mediumitalic-webfont.woff') format('woff');
+    src: url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-mediumitalic-webfont.woff2') format('woff2'),
+         url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-mediumitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -112,8 +112,8 @@
 
 @font-face {
     font-family: 'robotoregular';
-    src: url('http://localhost:3000/font/roboto/roboto-regular-webfont.woff2') format('woff2'),
-         url('http://localhost:3000/font/roboto/roboto-regular-webfont.woff') format('woff');
+    src: url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-regular-webfont.woff2') format('woff2'),
+         url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -124,8 +124,8 @@
 
 @font-face {
     font-family: 'robotothin';
-    src: url('http://localhost:3000/font/roboto/roboto-thin-webfont.woff2') format('woff2'),
-         url('http://localhost:3000/font/roboto/roboto-thin-webfont.woff') format('woff');
+    src: url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-thin-webfont.woff2') format('woff2'),
+         url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-thin-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -136,8 +136,8 @@
 
 @font-face {
     font-family: 'robotothin_italic';
-    src: url('http://localhost:3000/font/roboto/roboto-thinitalic-webfont.woff2') format('woff2'),
-         url('http://localhost:3000/font/roboto/roboto-thinitalic-webfont.woff') format('woff');
+    src: url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-thinitalic-webfont.woff2') format('woff2'),
+         url('https://tinembart-sudo.github.io/Landing-Page/font/roboto/roboto-thinitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
